@@ -3,7 +3,7 @@
 ##   Developer  :       Rishi king
 ##
 ##   Find us    :
-##   Facebook   :    https://www.facebook.com/profile.php?id=100000980962448
+##   Youtube   :    https://youtube.com/channel/UCEOym1aNSLJRBXucWTsDUvQ
 ##
 
 W = '\033[97;1m'
@@ -446,7 +446,7 @@ class Main:
 			print("\n \33[1;42m\033[1;97m Thank you for Using this Tool. Have a Good Day. \33[0m\n")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/profile.php?id=100000980962448")
+			os.system("xdg-open https://youtube.com/channel/UCEOym1aNSLJRBXucWTsDUvQ")
 			print("")
 			time.sleep(3.0)
 			print("")
@@ -469,7 +469,7 @@ class Main:
 		if UZAIR in ["2", "02"]:
 			Public()
 		if UZAIR in ["3", "03"]:
-			os.system("python2 rishi1.py")
+			os.system("python radhikarishi1.py")
 		if UZAIR in ["4", "04"]:
 			self.old()
 		if UZAIR in ["5", "05"]:
